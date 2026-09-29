@@ -287,7 +287,7 @@ Sequential-Part-Draw-Fill/
 For a screenshot:
 
 ```markdown
-![Project Screenshot](assets/screenshot.png)
+![Mahadev Art in python](/mahadev.png)
 ```
 
 A short demo GIF is especially useful because the main feature of this project is the **drawing animation**.
