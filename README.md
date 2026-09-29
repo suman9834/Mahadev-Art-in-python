@@ -160,12 +160,13 @@ Make sure your image is inside the project folder.
 Example:
 
 ```text
-Sequential-Part-Draw-Fill/
+Mahadev Art in python/
 │
 ├── main.py
 ├── mahadev.jpg
 ├── requirements.txt
-└── README.md
+├── README.md
+├── LICENSE
 ```
 
 Then run:
@@ -260,7 +261,7 @@ Can produce more regions and finer details, but may increase processing time.
 ## 📁 Project Structure
 
 ```text
-Sequential-Part-Draw-Fill/
+Mahadev Art in python/
 │
 ├── main.py
 ├── mahadev.jpg
@@ -278,17 +279,12 @@ Sequential-Part-Draw-Fill/
 | `requirements.txt` | Python dependencies            |
 | `README.md`        | Project documentation          |
 | `LICENSE`          | MIT License                    |
-| `assets/demo.gif`  | Optional project demonstration |
 
 ---
 
-## 📸 Demo
+## 📸 Project Preview
 
-For a screenshot:
-
-```markdown
-![Mahadev Art in python](/mahadev.png)
-```
+![Mahadev Art](mahadev.png)
 
 A short demo GIF is especially useful because the main feature of this project is the **drawing animation**.
 
