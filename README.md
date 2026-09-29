@@ -121,11 +121,9 @@ This helps reduce unnecessary noise and tiny animations.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/suman9834/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
+git clone https://github.com/suman9834/Mahadev-Art-in-python.git
+cd Mahadev Art in python
 ```
-
-Replace `YOUR-REPOSITORY` with your actual repository name.
 
 ### 2. Create a Virtual Environment
 
@@ -154,19 +152,6 @@ Or install them manually:
 ```bash
 pip install opencv-python numpy
 ```
-
----
-
-## 📄 requirements.txt
-
-Your `requirements.txt` should contain:
-
-```txt
-opencv-python
-numpy
-```
-
----
 
 ## ▶️ Usage
 
@@ -282,8 +267,6 @@ Sequential-Part-Draw-Fill/
 ├── requirements.txt
 ├── README.md
 ├── LICENSE
-└── assets/
-    └── demo.gif
 ```
 
 ### File Description
@@ -407,15 +390,6 @@ Full Stack Developer | ML & Data Science Learner
 * GitHub: [@suman9834](https://github.com/suman9834)
 * LinkedIn: [Suman Kumar](https://www.linkedin.com/in/suman-kumar-93b1b431/)
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
-See the [LICENSE](./LICENSE) file for more information.
-
----
 
 <div align="center">
 
