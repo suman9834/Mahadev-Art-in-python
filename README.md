@@ -284,7 +284,7 @@ Mahadev Art in python/
 
 ## 📸 Project Preview
 
-![Mahadev Art in python](mahadev.png)
+![Mahadev Art in python](/mahadev.jpg)
 
 A short demo GIF is especially useful because the main feature of this project is the **drawing animation**.
 
